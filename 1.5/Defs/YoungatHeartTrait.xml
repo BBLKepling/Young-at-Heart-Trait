@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>BBLK_BigKid</defName>
+    <commonality>0.8</commonality>
+    <degreeDatas>
+      <li>
+        <label>Young at Heart</label>
+        <description>{PAWN_nameDef} is just a big kid at heart. {PAWN_pronoun} loves all things childish, and kids will love playing with or learning from them.</description>
+        <possessions>
+          <BBLK_ColoringBook MayRequire="bblkepling.childrensbooks">0~1</BBLK_ColoringBook>
+          <BBLK_ChildrensBook MayRequire="bblkepling.childrensbooks">0~1</BBLK_ChildrensBook>
+        </possessions>
+      </li>
+    </degreeDatas>
+    <requiredWorkTags>
+      <li>Social</li>
+    </requiredWorkTags>
+  </TraitDef>
+
+  <ThoughtDef>
+    <defName>BBLK_BigKid</defName>
+    <thoughtClass>Thought_SituationalSocial</thoughtClass>
+    <workerClass>YoungAtHeart.ThoughtWorker_BigKid</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>little kid</label><!-- Big kid looking at little kid -->
+        <baseOpinionOffset>10</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>BBLK_LittleKid</defName>
+    <thoughtClass>Thought_SituationalSocial</thoughtClass>
+    <workerClass>YoungAtHeart.ThoughtWorker_LittleKid</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>big kid</label><!-- Little kid looking at big kid or big kid looking at big kid -->
+        <baseOpinionOffset>10</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>BBLK_TeenKid</defName>
+    <thoughtClass>Thought_SituationalSocial</thoughtClass>
+    <workerClass>YoungAtHeart.ThoughtWorker_TeenKid</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>not a kid</label><!-- Teen kid looking at big kid -->
+        <baseOpinionOffset>-10</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>BBLK_HaveKids</defName>
+    <workerClass>YoungAtHeart.ThoughtWorker_HaveKids</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <requiredTraits>
+      <li>BBLK_BigKid</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>no kids</label>
+        <description>Life is unbearable without kids around.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+      <li>
+        <label>one kid</label>
+        <description>We have one kid. They need a friend to socialize with.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>kids!</label>
+        <description>We have two kids! Such a happy family we're building.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+      <li>
+        <label>kids!</label>
+        <description>We have several kids! Time to get to class.</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+      <li>
+        <label>kids!</label>
+        <description>There are SO MANY KIDS! I can barely contain my excitement!</description>
+        <baseMoodEffect>13</baseMoodEffect>
+      </li>
+      <li>
+        <label>kids!</label>
+        <description>LOOK AT ME, I'M AN AIRPLANE! BRRRRRRRRR!</description>
+        <baseMoodEffect>15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

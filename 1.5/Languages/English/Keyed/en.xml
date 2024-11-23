@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Settings -->
+  <BBLK_YoungAtHeart_Settings>Young at Heart Trait</BBLK_YoungAtHeart_Settings>
+  
+  <BBLK_YoungAtHeart_haveKid_Label>Kid Quantity Mood Bonus</BBLK_YoungAtHeart_haveKid_Label>
+  <BBLK_YoungAtHeart_haveKid_ToolTip>Mood bonus for number of kids and babies in colony.</BBLK_YoungAtHeart_haveKid_ToolTip>
+  
+  <BBLK_YoungAtHeart_haveOpinion_Label>Kid Opinion Bonus</BBLK_YoungAtHeart_haveOpinion_Label>
+  <BBLK_YoungAtHeart_haveOpinion_ToolTip>Trait opinions between pawns.</BBLK_YoungAtHeart_haveOpinion_ToolTip>
+  
+  <BBLK_YoungAtHeart_learnBonus_Label>Learning Bonus</BBLK_YoungAtHeart_learnBonus_Label>
+  <BBLK_YoungAtHeart_learnBonus_ToolTip>Should trait give bonus learning rate to kids.</BBLK_YoungAtHeart_learnBonus_ToolTip>
+  
+  <BBLK_YoungAtHeart_learnRate_Label>Learning Bonus Rate</BBLK_YoungAtHeart_learnRate_Label>
+  <BBLK_YoungAtHeart_learnRate_ToolTip>How much extra learning bonus.</BBLK_YoungAtHeart_learnRate_ToolTip>
+  
+  <BBLK_YoungAtHeart_playBonus_Label>Play Bonus</BBLK_YoungAtHeart_playBonus_Label>
+  <BBLK_YoungAtHeart_playBonus_ToolTip>Should trait give bonus play rate to babies.</BBLK_YoungAtHeart_playBonus_ToolTip>
+  
+  <BBLK_YoungAtHeart_playRate_Label>Play Bonus Rate</BBLK_YoungAtHeart_playRate_Label>
+  <BBLK_YoungAtHeart_playRate_ToolTip>How much extra play bonus.</BBLK_YoungAtHeart_playRate_ToolTip>
+  
+</LanguageData>
