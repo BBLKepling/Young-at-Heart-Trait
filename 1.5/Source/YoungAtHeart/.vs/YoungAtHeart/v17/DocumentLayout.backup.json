@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\",
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\young at heart trait\\1.5\\source\\youngatheart\\thoughtworker_teenkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_teenkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\young at heart trait\\1.5\\source\\youngatheart\\youngatheartmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:youngatheartmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\thoughtworker_littlekid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_littlekid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\thoughtworker_bigkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_bigkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\thoughtworker_havekids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_havekids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\kididentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:kididentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\learningutility_learningratefactor_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:learningutility_learningratefactor_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\babyplayutility_getroomplaygainfactors_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\babyplayutility_getroomplaygainfactors_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:babyplayutility_getroomplaygainfactors_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\young-at-heart-trait\\1.5\\source\\youngatheart\\thoughtworker_havekids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_havekids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\thoughtworker_bigkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_bigkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\thoughtworker_littlekid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_littlekid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\thoughtworker_teenkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:thoughtworker_teenkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\learningutility_learningratefactor_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:learningutility_learningratefactor_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\youngatheartdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:youngatheartdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\kididentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:kididentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\youngatheartmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:youngatheartmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\young at heart trait\\1.5\\source\\youngatheart\\youngatheartsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\youngatheartsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:youngatheartsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\youngatheartdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184EC864-6576-4423-8C08-617C275A202E}|YoungAtHeart.csproj|solutionrelative:youngatheartdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +54,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LearningUtility_LearningRateFactor_Patch.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\LearningUtility_LearningRateFactor_Patch.cs",
-              "RelativeDocumentMoniker": "LearningUtility_LearningRateFactor_Patch.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\LearningUtility_LearningRateFactor_Patch.cs",
-              "RelativeToolTip": "LearningUtility_LearningRateFactor_Patch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ThoughtWorker_LittleKid.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_LittleKid.cs",
+              "RelativeDocumentMoniker": "ThoughtWorker_LittleKid.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_LittleKid.cs",
+              "RelativeToolTip": "ThoughtWorker_LittleKid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:00:01.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T06:02:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoungAtHeartDefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartDefOf.cs",
+              "RelativeDocumentMoniker": "YoungAtHeartDefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartDefOf.cs",
+              "RelativeToolTip": "YoungAtHeartDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:56:13.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThoughtWorker_BigKid.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_BigKid.cs",
+              "RelativeDocumentMoniker": "ThoughtWorker_BigKid.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_BigKid.cs",
+              "RelativeToolTip": "ThoughtWorker_BigKid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:01:29.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ThoughtWorker_TeenKid.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_TeenKid.cs",
+              "RelativeDocumentMoniker": "ThoughtWorker_TeenKid.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_TeenKid.cs",
+              "RelativeToolTip": "ThoughtWorker_TeenKid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:23:59.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ThoughtWorker_HaveKids.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_HaveKids.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_HaveKids.cs",
               "RelativeDocumentMoniker": "ThoughtWorker_HaveKids.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_HaveKids.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_HaveKids.cs",
               "RelativeToolTip": "ThoughtWorker_HaveKids.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T06:01:59.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThoughtWorker_BigKid.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_BigKid.cs",
-              "RelativeDocumentMoniker": "ThoughtWorker_BigKid.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_BigKid.cs",
-              "RelativeToolTip": "ThoughtWorker_BigKid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:01:29.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "KidIdentifier.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\KidIdentifier.cs",
-              "RelativeDocumentMoniker": "KidIdentifier.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\KidIdentifier.cs",
-              "RelativeToolTip": "KidIdentifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:59:02.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "YoungAtHeartMod.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartMod.cs",
-              "RelativeDocumentMoniker": "YoungAtHeartMod.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartMod.cs",
-              "RelativeToolTip": "YoungAtHeartMod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:00:09.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThoughtWorker_LittleKid.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_LittleKid.cs",
-              "RelativeDocumentMoniker": "ThoughtWorker_LittleKid.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_LittleKid.cs",
-              "RelativeToolTip": "ThoughtWorker_LittleKid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:02:51.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ThoughtWorker_TeenKid.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_TeenKid.cs",
-              "RelativeDocumentMoniker": "ThoughtWorker_TeenKid.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\ThoughtWorker_TeenKid.cs",
-              "RelativeToolTip": "ThoughtWorker_TeenKid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:23:59.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
               "RelativeDocumentMoniker": "BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
               "RelativeToolTip": "BabyPlayUtility_GetRoomPlayGainFactors_Patch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T05:57:56.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HarmonyInit.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\HarmonyInit.cs",
-              "RelativeDocumentMoniker": "HarmonyInit.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\HarmonyInit.cs",
-              "RelativeToolTip": "HarmonyInit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LearningUtility_LearningRateFactor_Patch.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\LearningUtility_LearningRateFactor_Patch.cs",
+              "RelativeDocumentMoniker": "LearningUtility_LearningRateFactor_Patch.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\LearningUtility_LearningRateFactor_Patch.cs",
+              "RelativeToolTip": "LearningUtility_LearningRateFactor_Patch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:51:14.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T06:00:01.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YoungAtHeartMod.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartMod.cs",
+              "RelativeDocumentMoniker": "YoungAtHeartMod.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartMod.cs",
+              "RelativeToolTip": "YoungAtHeartMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:00:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KidIdentifier.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\KidIdentifier.cs",
+              "RelativeDocumentMoniker": "KidIdentifier.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\KidIdentifier.cs",
+              "RelativeToolTip": "KidIdentifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:59:02.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "YoungAtHeartSettings.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartSettings.cs",
-              "RelativeDocumentMoniker": "YoungAtHeartSettings.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartSettings.cs",
-              "RelativeToolTip": "YoungAtHeartSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Title": "HarmonyInit.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\HarmonyInit.cs",
+              "RelativeDocumentMoniker": "HarmonyInit.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\HarmonyInit.cs",
+              "RelativeToolTip": "HarmonyInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:00:18.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:51:14.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "YoungAtHeartDefOf.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartDefOf.cs",
-              "RelativeDocumentMoniker": "YoungAtHeartDefOf.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young at Heart Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartDefOf.cs",
-              "RelativeToolTip": "YoungAtHeartDefOf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Title": "YoungAtHeartSettings.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartSettings.cs",
+              "RelativeDocumentMoniker": "YoungAtHeartSettings.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Young-at-Heart-Trait\\1.5\\Source\\YoungAtHeart\\YoungAtHeartSettings.cs",
+              "RelativeToolTip": "YoungAtHeartSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:56:13.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T11:00:18.338Z"
             }
           ]
         }

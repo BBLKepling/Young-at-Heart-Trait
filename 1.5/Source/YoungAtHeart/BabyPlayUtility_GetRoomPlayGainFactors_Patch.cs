@@ -12,6 +12,7 @@ namespace YoungAtHeart
         {
             if (YoungAtHeartSettings.playBonus &&
                 baby?.CurJob?.targetA.Thing is Pawn pawn && 
+                pawn.RaceProps.Humanlike &&
                 pawn.learning == null && 
                 pawn.story.traits.HasTrait(YoungAtHeartDefOf.BBLK_BigKid)
                 ) __result += (float)YoungAtHeartSettings.playRate / 100;

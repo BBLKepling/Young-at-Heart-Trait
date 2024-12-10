@@ -2,3 +2,7 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young at Heart Trait
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young at Heart Trait\1.5\Source\YoungAtHeart\obj\Debug\YoungAtHeart.csproj.AssemblyReference.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young at Heart Trait\1.5\Source\YoungAtHeart\obj\Debug\YoungAtHeart.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young at Heart Trait\1.5\Source\YoungAtHeart\obj\Debug\YoungAtHeart.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young-at-Heart-Trait\1.5\Assemblies\YoungAtHeart.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young-at-Heart-Trait\1.5\Source\YoungAtHeart\obj\Debug\YoungAtHeart.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young-at-Heart-Trait\1.5\Source\YoungAtHeart\obj\Debug\YoungAtHeart.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Young-at-Heart-Trait\1.5\Source\YoungAtHeart\obj\Debug\YoungAtHeart.dll
